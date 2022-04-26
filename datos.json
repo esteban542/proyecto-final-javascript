@@ -1,0 +1,81 @@
+{
+	"usuarios": [
+		{
+			"id": 0,
+			"nombre": "admin",
+			"clave": "12345",
+			"tipo": "admin"
+		},
+		{
+			"id": 0,
+			"nombre": "usuario",
+			"clave": "54321",
+			"tipo": "usuario"
+		}
+	],
+	"productos": [
+		{
+			"id": "0",
+			"tipo": "jean",
+			"modelo": "Jean Indiana",
+			"precio": 3500,
+			"img": "./img/Jean-Indiana-1.jpg"
+		},
+		{
+			"id": "1",
+			"tipo": "jean",
+			"modelo": "Jean Luisina",
+			"precio": 3500,
+			"img": "./img/Jean-Luisina-1.jpg"
+		},
+		{
+			"id": "2",
+			"tipo": "jean",
+			"modelo": "Jean Virginia",
+			"precio": 3500,
+			"img": "./img/Jean-virginia-1.jpg"
+		},
+		{
+			"id": "3",
+			"tipo": "jean",
+			"modelo": "Jean Kansas",
+			"precio": 4000,
+			"img": "./img/kansas-2b.jpg"
+		},
+		{
+			"id": "4",
+			"tipo": "jean",
+			"modelo": "Jean Texas",
+			"precio": 4000,
+			"img": "./img/texas-2.jpg"
+		},
+		{
+			"id": "5",
+			"tipo": "jean",
+			"modelo": "Jean Washington",
+			"precio": 4000,
+			"img": "./img/washington-2.jpg"
+		},
+		{
+			"id": "6",
+			"tipo": "buzo",
+			"modelo": "Buzo Hope",
+			"precio": 2000,
+			"img": "./img/buzo-hope.jpg"
+		},
+		{
+			"id": "7",
+			"tipo": "buzo",
+			"modelo": "Buzo Rustico First",
+			"precio": 3500,
+			"img": "./img/buzo-rustico-1.jpg"
+		},
+		{
+			"id": "8",
+			"tipo": "buzo",
+			"modelo": "Buzo Rustico Second",
+			"precio": 3500,
+			"img": "./img/buzo-rustico-2.jpg"
+		}
+	]
+}
